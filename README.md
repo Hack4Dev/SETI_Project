@@ -24,6 +24,17 @@ This project does not involve machine learning and therefore can be run locally 
 
 ## Hackathon Task
 
+🛸 Find Your Own Alien!
+
+Congratulations! You've succesfully completed the turboSETI pipeline walkthrough and found an almost-alien! Now that your appetite is whetted, why not search for a real alien?!
+
+Breakthrough Listen has collected huge amounts of data, and we're continually working to refine our processing algorithms, so it's entirely possible there's an alien message that's hiding in the data that's already stored on our servers that's just waiting for you to find it!
+
+That's where you and your spiffy new turboSETI skills come in! Breakthrough Listen is an open-source and open-data project, which means that most of the data it has collected is publicly available! Navigate to http://seti.berkeley.edu/opendata. Then click on "Advanced Search Options" and uncheck all the boxes except for GBT and .hdf5 to make sure that you're getting similar files to the ones we've used in this tutorial. Then pick a dataset--any dataset! Just make sure you pay attention to the file size. You probably don't want to download any Gigabyte-sized files on your own machine...
+
+Now go through the whole turboSETI pipeline: Download an .h5 data file, run turboSETI on it, then run find_event_pipeline on the .dat files from turboSETI and make your plots!
+
+Remember, you can vary the snr and max_drift parameters when running turboSETI to expand/contract your search. You can also vary the find_event_pipeline threshold to include/exclude more RFI. If you find any events at threshold 3, well... maybe let us know ;-) bsrc@berkeley.edu
 
 
 ## Prerequisites
