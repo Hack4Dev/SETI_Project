@@ -45,18 +45,18 @@ We're going to set up a new "conda environment", which is a collection of python
 
 To create the environment, enter the following in your bash terminal:
 
-# Create the environment from the definition file
+### Create the environment from the definition file
 conda env create -f environment.yml
-# Activate the new environment
+### Activate the new environment
 conda activate turboSETI
-# Create a Jupyter "kernel" for this environment to make it accessible from a notebook
+### Create a Jupyter "kernel" for this environment to make it accessible from a notebook
 python -m ipykernel install --user --name=turboSETI
 
 Now it's time to move into a Jupyter Notebook! Open this notebook in Jupyter or create a new one to follow along.
 
 You need to select the turboSETI kernel for your notebook by clicking on Kernel > Change Kernel in the top menu of Jupyter.
 
-### Would you like to clone this repository? Feel free!
+## Would you like to clone this repository? Feel free!
 
 ```bash
 > git clone https://github.com/Hack4Dev/SETI_Project.git
