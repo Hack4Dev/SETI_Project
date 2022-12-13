@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this tutorial is to take you through the "SETI Pipeline", that is the method used by the Breakthrough Listen team to search for alien techno-signatures! You will take real data gathered by Breakthrough Listen at the Green Bank Telescope in West Virginia, run it through a few algorithms, and see if you can find an alien or two!
+The goal of this tutorial is to take you through the "SETI Pipeline", that is the method used by the [Breakthrough Listen](https://seti.berkeley.edu/listen/) team to search for alien techno-signatures! You will take real data gathered by Breakthrough Listen at the [Green Bank Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope) in West Virginia, run it through a few algorithms, and see if you can find an alien or two!
 
 Spoiler alert: If you do everything right you WILL find what appears to possibly be an alien! 👽
 
@@ -11,11 +11,10 @@ Second spoiler alert: It's not an alien 😔
 But it is Voyager 1! 🛰️ The farthest human-made object from Earth! Which is still pretty freaking awesome if you ask me!
 
 *The process by which we find Voyager 1 will be nearly identical to the process you will use to search for aliens in other data sets.* So buckle up and listen close: It's time to look for ET!
-📚 Background
 
-Click here to watch a helpful video about the summer research project that this tutorial is based on.
+Click [here](https://www.youtube.com/watch?v=EFxUHoXW1cA) to watch a helpful video about the summer research project that this tutorial is based on.
 
-One of the largest challenges in SETI's search is that human-generated radio frequency interference (RFI) from cell phones, Wi-Fi, radar, etc, is much more abundant and powerful than potential alien-generated signals. Therefore two primary techniques are used to quickly discriminate between human-made RFI and signals from outer space. They're pretty simple, effective, and understanding them is prerequisite for the rest of this tutorial. For a more thorough background discussion, read through this document.
+One of the largest challenges in SETI's search is that human-generated radio frequency interference (RFI) from cell phones, Wi-Fi, radar, etc, is much more abundant and powerful than potential alien-generated signals. Therefore two primary techniques are used to quickly discriminate between human-made RFI and signals from outer space. They're pretty simple, effective, and understanding them is prerequisite for the rest of this tutorial. For a more thorough background discussion, [read through this document](https://github.com/UCBerkeleySETI/breakthrough/tree/master/GBT).
 
 ## Data
 
