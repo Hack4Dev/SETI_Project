@@ -28,16 +28,22 @@ This project does not involve machine learning and therefore can be run locally 
 
 ## Prerequisites
 
-All the libraries/dependencies necessary to run the tutorials are listed in the [requirements.txt](@) file.
-
+We're going to set up a new "conda environment", which is a collection of python packages that we can import in our code. The environment we create will be called turboSETI, and is described by the file environment.yml (another file in this repository).
 
 ## Installation
 
-All the required libraries can be installed using pip and the [requirements.txt](@) file in the repo:
+To create the environment, enter the following in your bash terminal:
 
-```bash
-> pip install -r requirements.txt
-```
+# Create the environment from the definition file
+conda env create -f environment.yml
+# Activate the new environment
+conda activate turboSETI
+# Create a Jupyter "kernel" for this environment to make it accessible from a notebook
+python -m ipykernel install --user --name=turboSETI
+
+Now it's time to move into a Jupyter Notebook! Open this notebook in Jupyter or create a new one to follow along.
+
+You need to select the turboSETI kernel for your notebook by clicking on Kernel > Change Kernel in the top menu of Jupyter.
 
 ### Would you like to clone this repository? Feel free!
 
