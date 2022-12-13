@@ -10,7 +10,7 @@ Second spoiler alert: It's not an alien 😔
 
 But it is Voyager 1! 🛰️ The farthest human-made object from Earth! Which is still pretty freaking awesome if you ask me!
 
-*The process by which we find Voyager 1 will be nearly identical to the process you will use to search for aliens in other data sets.* So buckle up and listen close: It's time to look for ET!
+**The process by which we find Voyager 1 will be nearly identical to the process you will use to search for aliens in other data sets.** So buckle up and listen close: It's time to look for ET!
 
 Click [here](https://www.youtube.com/watch?v=EFxUHoXW1cA) to watch a helpful video about the summer research project that this tutorial is based on.
 
