@@ -16,6 +16,8 @@ Click [here](https://www.youtube.com/watch?v=EFxUHoXW1cA) to watch a helpful vid
 
 One of the largest challenges in SETI's search is that human-generated radio frequency interference (RFI) from cell phones, Wi-Fi, radar, etc, is much more abundant and powerful than potential alien-generated signals. Therefore two primary techniques are used to quickly discriminate between human-made RFI and signals from outer space. They're pretty simple, effective, and understanding them is prerequisite for the rest of this tutorial. For a more thorough background discussion, [read through this document](https://github.com/UCBerkeleySETI/breakthrough/tree/master/GBT).
 
+This project does not make use of machine learning and therefore can be run locally on your computer.
+
 ## Data
 
 
