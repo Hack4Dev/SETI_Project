@@ -8,7 +8,7 @@ Spoiler alert: If you do everything right you WILL find what appears to possibly
 
 Second spoiler alert: It's not an alien 😔
 
-But it is Voyager 1! 🛰️ The farthest human-made object from Earth! Which is still pretty freaking awesome if you ask me!
+But it is the Voyager 1 spacecraft! 🛰️ The farthest human-made object from Earth! Which is still pretty freaking awesome if you ask me!
 
 **The process by which we find Voyager 1 will be nearly identical to the process you will use to search for aliens in other data sets.** So buckle up and listen close: It's time to look for ET!
 
@@ -20,7 +20,7 @@ This project does not involve machine learning and therefore can be run locally 
 
 ## Data
 
-
+For the purpose of simulating what it would be like to find an alien techno-signature, the Breakthrough Listen team used the Green Bank Telescope to observe the signal from the Voyager 1 (launched back in 1977!). We will be working with this data, which was collected by the Greenbank telescope on July 16th, 2020. The data is roughly 300MB and will be downloaded as part of the tutorial.
 
 ## Hackathon Task
 
