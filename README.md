@@ -26,7 +26,7 @@ For the purpose of simulating what it would be like to find an alien techno-sign
 
 🛸 Find Your Own Alien!
 
-Congratulations! You've succesfully completed the turboSETI pipeline walkthrough and found an almost-alien! Now that your appetite is whetted, why not search for a real alien?!
+Once you have worked through the [VoyagerTutorial.ipynb](https://github.com/Hack4Dev/SETI_Project/blob/main/VoyagerTutorial.ipynb) notebook, succesfully completed the turboSETI pipeline walkthrough and found an *almost-alien*, why not search for a **real alien?!**
 
 Breakthrough Listen has collected huge amounts of data, and we're continually working to refine our processing algorithms, so it's entirely possible there's an alien message that's hiding in the data that's already stored on our servers that's just waiting for you to find it!
 
