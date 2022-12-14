@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this tutorial is to take you through the "SETI Pipeline", that is the method used by the [Breakthrough Listen](https://seti.berkeley.edu/listen/) team to search for alien techno-signatures! You will take real data gathered by Breakthrough Listen at the [Green Bank Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope) in West Virginia, run it through a few algorithms, and see if you can find an alien or two!
+The goal of the [Voyager Tutorial](https://github.com/Hack4Dev/SETI_Project/blob/main/VoyagerTutorial.ipynb) is to take you through the "SETI Pipeline", that is the method used by the [Breakthrough Listen](https://seti.berkeley.edu/listen/) team to search for alien techno-signatures! You will take real data gathered by Breakthrough Listen at the [Green Bank Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope) in West Virginia, run it through a few algorithms, and see if you can find an alien or two!
 
 Spoiler alert: If you do everything right you WILL find what appears to possibly be an alien! 👽
 
