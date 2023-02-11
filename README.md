@@ -1,6 +1,6 @@
 # Search for Extraterrestrial Signals
 
-#### This project is based on work from a summer research project conducted by [Elan Lavie](https://github.com/elanlavie) with [Dr Steve Croft](https://github.com/stevecroft) at the [Berkeley SETI Research Centre](https://seti.berkeley.edu/). 
+This project is based on work from a summer research project conducted by [Elan Lavie](https://github.com/elanlavie) with [Dr Steve Croft](https://github.com/stevecroft) at the [Berkeley SETI Research Centre](https://seti.berkeley.edu/). 
 
 ## Description
 
