@@ -38,8 +38,12 @@ Now go through the whole turboSETI pipeline: Download an .h5 data file, run turb
 
 Remember, you can vary the snr and max_drift parameters when running turboSETI to expand/contract your search. You can also vary the find_event_pipeline threshold to include/exclude more RFI. If you find any events at threshold 3, well... maybe let us know ;-) bsrc@berkeley.edu
 
+## Run the code in your browser
 
-## Prerequisites
+Click the binder button below to open the notebook in your browser
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hack4Dev/SETI_Project/HEAD?labpath=https%3A%2F%2Fgithub.com%2FHack4Dev%2FSETI_Project%2Fblob%2Fmain%2FVoyagerTutorial.ipynb)
+
+## Run the code locally on your computer
 
 We're going to set up a new "conda environment", which is a collection of python packages that we can import in our code. The environment we create will be called turboSETI, and is described by the file environment.yml (another file in this repository).
 
