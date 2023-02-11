@@ -1,5 +1,7 @@
 # Search for Extraterrestrial Signals
 
+#### This project is based on work from a summer research project conducted by [Elan Lavie](https://github.com/elanlavie) with [Dr Steve Croft](https://github.com/stevecroft) at the [Berkeley SETI Research Centre](https://seti.berkeley.edu/). 
+
 ## Description
 
 The goal of the [Voyager Tutorial](https://github.com/Hack4Dev/SETI_Project/blob/main/VoyagerTutorial.ipynb) is to take you through the "SETI Pipeline", that is the method used by the [Breakthrough Listen](https://seti.berkeley.edu/listen/) team to search for alien techno-signatures! You will take real data gathered by Breakthrough Listen at the [Green Bank Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope) in West Virginia, run it through a few algorithms, and see if you can find an alien or two!
